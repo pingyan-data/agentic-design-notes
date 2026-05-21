@@ -39,7 +39,7 @@ Fraud 这个领域过去 5 年发生了根本性变化:
 
 ---
 
-## 2. 一个必须先讲清楚的前提:信息聚合不是痛点
+## 2. 设计的前提
 
 现代瑞典银行 (Swedbank, SEB, Nordea, Handelsbanken) 的 fraud team 用既有 case management workbench——Actimize FCC、SAS Fraud Management、或自研系统。这些系统已经做了 unified case view:
 
